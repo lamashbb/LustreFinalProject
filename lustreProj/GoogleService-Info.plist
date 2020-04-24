@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>103990573249-knv5l4birfee4r50luc0e6pt5jekbel6.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.103990573249-knv5l4birfee4r50luc0e6pt5jekbel6</string>
+	<key>API_KEY</key>
+	<string>AIzaSyAU5L8PKp1SFmY3xwwQ7P_eBuHD5Z_Awe8</string>
+	<key>GCM_SENDER_ID</key>
+	<string>103990573249</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.lam.lustreProj</string>
+	<key>PROJECT_ID</key>
+	<string>lustregp</string>
+	<key>STORAGE_BUCKET</key>
+	<string>lustregp.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false/>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false/>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true/>
+	<key>IS_GCM_ENABLED</key>
+	<true/>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true/>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:103990573249:ios:9170ff9d6f74644bb13c40</string>
+	<key>DATABASE_URL</key>
+	<string>https://lustregp.firebaseio.com</string>
+</dict>
+</plist>

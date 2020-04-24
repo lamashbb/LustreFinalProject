@@ -1,0 +1,6 @@
+framework module Pods_lustreProj {
+  umbrella header "Pods-lustreProj-umbrella.h"
+
+  export *
+  module * { export * }
+}
